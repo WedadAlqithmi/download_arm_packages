@@ -43,4 +43,9 @@ roslaunch robot_arm_pkg check_motors.launch
 
 ``` 
 thelast line will launch the arm package 
+
+
+
+
+
 ![ros package arm](https://user-images.githubusercontent.com/108210044/182048719-f5d791dc-e509-40bf-9028-22a6547e964f.PNG)
