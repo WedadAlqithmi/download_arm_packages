@@ -42,7 +42,7 @@ source ~/.bashrc
 roslaunch robot_arm_pkg check_motors.launch
 
 ``` 
-thelast line will launch the arm package 
+the last line will launch the arm package 
 
 
 
